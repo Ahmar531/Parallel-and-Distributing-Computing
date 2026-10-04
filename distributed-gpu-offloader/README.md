@@ -1,3 +1,14 @@
+Screenshot:
+
+
+<img width="473" height="301" alt="Screenshot 2026-10-04 073619" src="https://github.com/user-attachments/assets/1f3ebd0e-76d5-4f9f-8020-8560da5ac1d7" />
+<img width="941" height="539" alt="Screenshot 2026-10-04 073420" src="https://github.com/user-attachments/assets/5c66f711-d38c-4509-9c1d-cbc168200c21" />
+<img width="955" height="538" alt="Screenshot 2026-10-04 073217" src="https://github.com/user-attachments/assets/96e773f7-a644-43e1-9f5c-7a982cf4863c" />
+<img width="959" height="539" alt="Screenshot 2026-10-04 072909" src="https://github.com/user-attachments/assets/69baee0f-8e2f-4e3c-af78-6734ab2085fe" />
+
+
+
+
 # Distributed Task Offloading & Remote GPU Rendering System
 
 **CSC-334 Parallel and Distributed Computing - Assignment**
