@@ -1,8 +1,8 @@
-# Lab 04 — Custom Distributed Task Offloading & Remote GPU Rendering
+demo:
+https://drive.google.com/file/d/1r96qENUyvaMAjaJI5WQORiTri0OwjlI4/view?usp=drivesdk
 
-**Course:** CSC-334 Parallel and Distributed Computing
-**Student:** Muhammad Ahmad Mujtaba — FA23-BSE-041
-**Section:** BSE 7A
+
+#Custom Distributed Task Offloading & Remote GPU Rendering
 
 ---
 
