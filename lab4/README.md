@@ -1,5 +1,27 @@
-demo:
-https://drive.google.com/file/d/1r96qENUyvaMAjaJI5WQORiTri0OwjlI4/view?usp=drivesdk
+## 🎥 Project Demo
+
+Watch the complete project demonstration:
+
+[▶️ Watch Demo Video](https://drive.google.com/file/d/1r96qENUyvaMAjaJI5WQORiTri0OwjlI4/view?usp=drivesdk)
+
+## 📸 Screenshots
+
+Here are some screenshots showcasing the project's interface and functionality.
+
+### Screenshot 1
+![Screenshot 1](https://github.com/user-attachments/assets/faf07242-8c46-4c8a-95ce-8e174eafbe0f)
+
+### Screenshot 2
+![Screenshot 2](https://github.com/user-attachments/assets/e412490e-1577-443e-8fb6-9d5742f85253)
+
+### Screenshot 3
+![Screenshot 3](https://github.com/user-attachments/assets/9a975e2e-0e94-40c5-a02c-cfe747739282)
+
+### Screenshot 4
+![Screenshot 4](https://github.com/user-attachments/assets/7de554ed-b954-4111-8f9d-32a721281e7f)
+
+### Screenshot 5
+![Screenshot 5](https://github.com/user-attachments/assets/cceb7770-e443-4d6d-ab00-8ce45c10e3d1)
 
 
 #Custom Distributed Task Offloading & Remote GPU Rendering
@@ -117,7 +139,7 @@ FFmpeg must be installed and accessible in your system PATH.
 ### Start the Server (Computer B)
 
 ```bash
-cd lab4/server
+
 python server_gui.py
 ```
 
@@ -192,36 +214,3 @@ python lab4/client/benchmark.py --host 127.0.0.1 --port 5000
 
 ![Speedup Factor & Network Overhead](./ss/benchmark_speedup_overhead.png)
 
----
-
-## Screenshots
-
-### Live Demo (Animated)
-![Live System Demo](./ss/demo.gif)
-
----
-
-### Client GUI — Initial State
-![Client GUI Initial](./ss/client_gui_initial.PNG)
-
----
-
-### Handshake & Latency Ping
-![Client Handshake](./ss/client_gui_handshake.PNG)
-
----
-
-### Real-Time Progress Streaming
-![Progress Streaming](./ss/client_gui_progress.PNG)
-
----
-
-### Task Completed & SHA-256 Verified
-![Completed and Verified](./ss/client_gui_completed.PNG)
-
----
-
-### Server Node — Terminal Execution Trace
-![Server Terminal](./ss/server_terminal_execution.PNG)
-
----
